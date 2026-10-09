@@ -1,4 +1,5 @@
 #Cambio realizado en la rama Jairoeduardo-viz 
+# Cambio local en main para sincronizar con GitHub
 import dash
 from dash import dcc
 from dash import html
